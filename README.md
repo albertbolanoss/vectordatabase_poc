@@ -60,6 +60,6 @@ Run app.
 ```sh
 py src/app.py
 
-# input e.g: Charles Babbage's
+# input e.g: Charles Babbage's.
 ```
 

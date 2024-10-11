@@ -163,3 +163,5 @@ cython_debug/
 
 # Docker Compose volumnes
 docker_compose/volumes
+
+.venv.zip
